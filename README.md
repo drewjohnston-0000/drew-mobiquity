@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drew-mobiquity
-- 👀 I’m interested in Nodejs, Typescript Rails, CI/CD, Serverless
+- 👀 AWS Serverless, Nodejs/Typescript, Ruby-on-Rails, CI/CD
 - 🌱 I’m currently trying to do more TDD 
-- 💞️ I’m looking to collaborate on becomeing a better human
+- 💞️ I’m looking to drink more coffee
 
 <!---
 drew-mobiquity/drew-mobiquity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
