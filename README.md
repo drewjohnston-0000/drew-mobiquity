@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drew-mobiquity
+- 👋 Hi, I’m @drew
 - 👀 AWS Serverless, Nodejs/Typescript, Ruby-on-Rails, CI/CD
 - 🌱 I’m currently trying to do more TDD 
 - 💞️ I’m looking to drink more coffee
